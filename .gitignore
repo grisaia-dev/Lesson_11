@@ -9,6 +9,16 @@ Task_1lib/Task_1lib/x64
 Task_1lib/Task_1lib/Task_1lib.vcxproj.filters
 Task_1lib/Task_1lib/Task_1lib.vcxproj.user
 
+Task_2/x64/
+Task_2/.vs/
+Task_2/Task_2_DyLib/x64/
+Task_2/Task_2_DyLib/Task_2_DyLib.vcxproj.filters
+Task_2/Task_2_DyLib/Task_2_DyLib.vcxproj.user
+Task_2/Task_2_Client/x64/
+Task_2/Task_2_Client/Task_2_Client.vcxproj.filters
+Task_2/Task_2_Client/Task_2_Client.vcxproj.user
+
+
 Task_3/build/
 Task_3/.cache/
 Task_3/.vscode/

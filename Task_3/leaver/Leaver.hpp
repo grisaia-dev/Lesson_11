@@ -10,5 +10,5 @@
 
 class Leaver {
 public:
-    std::string leave(std::string _name);
+    LEAVERLIBRARY_API std::string leave(std::string _name);
 };
