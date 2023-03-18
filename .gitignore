@@ -1,4 +1,14 @@
 .DS_Store
+Task_1lib/.vs/
+Task_1lib/x64/
+Task_1lib/Task_1/x64/
+Task_1lib/Task_1/Task_1.vcxproj.filters
+Task_1lib/Task_1/Task_1.vcxproj.user
+Task_1lib/Task_1/Task_1/x64/
+Task_1lib/Task_1lib/x64
+Task_1lib/Task_1lib/Task_1lib.vcxproj.filters
+Task_1lib/Task_1lib/Task_1lib.vcxproj.user
+
 Task_3/build/
 Task_3/.cache/
 Task_3/.vscode/
