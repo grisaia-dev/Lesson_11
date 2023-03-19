@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0631cd30-9b9d-4449-b1af-d2681b696133}</ProjectGuid>
+    <ProjectGuid>{3f02b5ab-7504-4fae-80e7-104e3766e1f5}</ProjectGuid>
     <RootNamespace>Task2DyLib</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
@@ -131,10 +131,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Leaver\Leaver.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Leaver\Leaver.h" />
+    <ClCompile Include="Leaver.cpp" />
+    <ClCompile Include="Leaver.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

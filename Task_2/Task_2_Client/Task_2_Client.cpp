@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <Windows.h>
-#include "Leaver/Leaver.h"
+#include "Leaver.h"
 
 int main(void) {
 	SetConsoleCP(1251);

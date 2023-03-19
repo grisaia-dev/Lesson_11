@@ -4,6 +4,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED true)
 
 project(Task_3)
 
-add_library(libLEAVER SHARED leaver/Leaver.hpp leaver/Leaver.cpp)
+add_library(LIBLEAVER SHARED leaver/Leaver.hpp leaver/Leaver.cpp)
 add_executable(Task_3_run main.cpp)
-target_link_libraries(Task_3_run libLEAVER)
+target_link_libraries(Task_3_run LIBLEAVER)
